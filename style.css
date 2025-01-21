@@ -1,0 +1,19 @@
+/* Vispārīgi stili */
+body {
+    background-color: #1a1a1a; /* Tumšs fons, lai izceltu neona efektu */
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Virsraksts */
+h1 {
+    font-size: 3rem;
+    color: #9400D3; /* Violetais tonis */
+    text-shadow: 0 0 5px #9400D3, 0 0 10px #9400D3, 0 0 20px #9400D3, 
+                 0 0 30px #DA70D6, 0 0 40px #DA70D6, 0 0 50px #DA70D6;
+}
